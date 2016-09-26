@@ -280,8 +280,7 @@ section.our-skills .video iframe {
 }
 /*-- /skills section --*/
 /*-- services section --*/
-section.our-services {
-	background:url(../images/port.jpg) no-repeat;
+section.our-services {	
     background-attachment: fixed;
     background-position: center;
     background-size:100% 100%;
